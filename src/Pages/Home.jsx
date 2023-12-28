@@ -25,7 +25,6 @@ export default function Home() {
         />
       ))}
       </section>
-      <Carrinho />
     </main>
   );
 }

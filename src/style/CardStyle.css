@@ -1,6 +1,6 @@
 .nft {
     user-select: none;
-    max-width: 300px;
+    width: 15%;
     margin: 5rem auto;
     border: 1px solid #ffffff22;
     background-color: #333;
@@ -14,7 +14,7 @@
   width: 100%;
   border: none;
   border-bottom: 1px solid #88888855;
-  margin-top: 0;
+  margin-bottom: 1em;
 }
 
 .nft ins {

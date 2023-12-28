@@ -1,0 +1,8 @@
+//!  Define o tipo da action aqui
+
+
+const CartActionTypes = {
+    ADD_PRODUCT: "cart/addProduct"
+}
+
+export default CartActionTypes;
